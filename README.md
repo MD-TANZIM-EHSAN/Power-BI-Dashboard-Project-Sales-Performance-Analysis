@@ -16,3 +16,4 @@ Dashboad view:
 
 ![img alt](https://github.com/MD-TANZIM-EHSAN/Power-BI-Dashboard-Project-Sales-Performance-Analysis/blob/84431e276261163853f795a3255b2614bd0e13ba/home.png)
 ![img alt](https://github.com/MD-TANZIM-EHSAN/Power-BI-Dashboard-Project-Sales-Performance-Analysis/blob/main/product.png?raw=true)
+![img alt](https://github.com/MD-TANZIM-EHSAN/Power-BI-Dashboard-Project-Sales-Performance-Analysis/blob/main/customer.png?raw=true)
