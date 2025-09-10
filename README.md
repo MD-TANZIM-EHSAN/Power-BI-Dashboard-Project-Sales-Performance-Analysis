@@ -13,5 +13,6 @@ I designed and developed an interactive dashboard to analyze overall sales perfo
  ✔️ Supports smarter, data-driven decision-making
 
 Dashboad view:
+
 ![img alt](https://github.com/MD-TANZIM-EHSAN/Power-BI-Dashboard-Project-Sales-Performance-Analysis/blob/84431e276261163853f795a3255b2614bd0e13ba/home.png)
 ![img alt](https://github.com/MD-TANZIM-EHSAN/Power-BI-Dashboard-Project-Sales-Performance-Analysis/blob/main/product.png?raw=true)
